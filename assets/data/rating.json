@@ -1,0 +1,22 @@
+[
+    {
+        "course": "Mat. Discretas",
+        "rating": 97
+    },
+    {
+        "course": "Estructura De Datos",
+        "rating": 91
+    },
+    {
+        "course": "Adm de Centros de Cómputos",
+        "rating": 100
+    },
+    {
+        "course": "Lab de Len. de Program II",
+        "rating": 97
+    },
+    {
+        "course": "Leng. de Programación II",
+        "rating": 98
+    }
+]
