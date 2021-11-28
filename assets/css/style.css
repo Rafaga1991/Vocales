@@ -1,0 +1,22 @@
+:root{
+    --color-secondary:#E5E5E5;
+}
+
+html, body{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.selector{
+    -webkit-transition-duration: .5s;
+    -moz-transition-duration: .5s;
+    -o-transition-duration: .5s;
+    transition-duration: .5s;
+    cursor: pointer;
+}
+
+.selector:hover{
+    background-color: var(--color-secondary);
+}
