@@ -24,7 +24,7 @@
         <hr class="dropdown-divider">
 
         <h4 class="text-muted fw-bold">BIOGRAF&iacute;A</h4>
-        <img width="200px" src="C:\Users\0021c\Documents\UASD\Semestre 2021-2\Lenguaje de Programación III\Tarea de LAB 1\Carlos.jpg" alt="Carlos">
+        <img width="200px" src="#" alt="Carlos">
 
         <p class="alert alert-success">Mi nombre es <span class="fw-bold">Carlos</span>,
             soy estudiante de licenciatura en informática en la Universidad Autonoma de Santo Domingo (UASD-SFM),
